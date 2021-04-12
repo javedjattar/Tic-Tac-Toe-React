@@ -1,0 +1,34 @@
+/* Giving Background Color to Body */
+body{
+  background-color:#ddd;
+}
+/* CenterAlign entire html content in my file
+give width and margin */
+.container{
+  width: 30%;
+  height: 30%;
+  margin:auto;
+}
+/* Lets Style the Board */
+#board{
+  width: 80%;
+  margin:auto;
+  padding: 20px;
+}
+/* we use flex to show seperate row 
+how can we make sure all the items in row should be center align i.e inside a row at the center
+which property? Ans==> justify content */
+
+/* lets style the grid item 
+every item should have height and width
+let it have some background color also 
+lets give border to differntiate every tile. Give dark border to it==> use border
+lets seperate out tiles so we can see seperate tiles i.e. they will look seperate use = margin
+
+how can we style this text inside the grid cell so they look much better in it
+1. we will increase its font size
+2.choose font family
+*/
+
+/* Last But Not least The player turn part to style */
+
